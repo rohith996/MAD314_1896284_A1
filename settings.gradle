@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='MAD314_1896284_assignment1'
